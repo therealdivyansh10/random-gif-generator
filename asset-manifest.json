@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-gif-generator/static/css/main.ceb47342.css",
+    "main.js": "/random-gif-generator/static/js/main.9146d16a.js",
+    "index.html": "/random-gif-generator/index.html",
+    "main.ceb47342.css.map": "/random-gif-generator/static/css/main.ceb47342.css.map",
+    "main.9146d16a.js.map": "/random-gif-generator/static/js/main.9146d16a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb47342.css",
+    "static/js/main.9146d16a.js"
+  ]
+}
